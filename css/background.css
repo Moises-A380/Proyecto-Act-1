@@ -1,0 +1,18 @@
+body{
+        background-image: url("https://previews.123rf.com/images/smeagorl/smeagorl1504/smeagorl150400404/38496188-ilustraci%C3%B3n-de-textura-perfecta-con-huellas-de-gatos-perros-huellas-de-patas-mascotas-raster.jpg");
+}
+.div1{
+    background-color: #168dee;
+    height: auto;
+    width: auto;
+    } 
+.div2{
+    background-color: coral;
+    height: 50;
+    width: 500;
+}
+.img1{
+    img
+    height: auto;
+    width: auto;
+}  
